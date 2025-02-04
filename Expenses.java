@@ -15,7 +15,7 @@ public class Expenses {
         boolean shouldContinue = true;
         boolean inputAccepted = false;
         String nextString;
-
+        //comment
 
         float expenseSubtotal = 0;
         float incomeSubtotal = 0;
